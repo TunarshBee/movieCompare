@@ -1,9 +1,12 @@
-body{
-  background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5));
+body {
+  background-image: url("https://wallpaperaccess.com/full/37946.jpg");
+  background-position: center;
+  background-size: cover;
   height: 100vh;
+  color: white;
 }
 .is-primary{
-  background: #003A70 !important;
+  background: #333 !important;
   color: #fff;
 }
 .tutorial {
@@ -71,4 +74,13 @@ figure .image img {
 .dropdown-item img {
   height: 50px;
   margin-right: 10px;
+}
+
+.hero-body {
+    padding: .5rem 1.5rem;
+}
+.title {
+ 
+  font-size: 1rem;
+  
 }
